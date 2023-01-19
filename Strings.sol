@@ -3,7 +3,7 @@
 
 pragma solidity ^0.8.0;
 
-import "./Math.sol";
+import "http://github.com/nikaluka/eightbabies/blob/main/Math.sol";
 
 /**
  * @dev String operations.
