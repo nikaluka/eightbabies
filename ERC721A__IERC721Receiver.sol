@@ -3,7 +3,7 @@
 // Creator: Chiru Labs
 
 pragma solidity ^0.8.4;
-import './IERC721A.sol';
+import "https://github.com/nikaluka/eightbabies/blob/main/IERC721A.sol";
 
 /**
  * @dev Interface of ERC721 token receiver.
