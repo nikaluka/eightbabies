@@ -1,8 +1,8 @@
 //SPDX-License-Identifier: UNLICENSED
 
 pragma solidity ^0.8.15;
-import "https://github.com/nikaluka/eightbabies/blob/main/IERC721A.sol";
-import "https://github.com/nikaluka/eightbabies/blob/main/ERC721A__IERC721Receiver.sol";
+import "http://github.com/nikaluka/eightbabies/blob/main/IERC721A.sol";
+import "http://github.com/nikaluka/eightbabies/blob/main/ERC721A__IERC721Receiver.sol";
 
 contract ERC721A is IERC721A {
     // Bypass for a `--via-ir` bug (https://github.com/chiru-labs/ERC721A/pull/364).
